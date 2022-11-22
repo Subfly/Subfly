@@ -6,16 +6,20 @@ and I am a Mobile Application Developer
 
 Started university in 2017, Flutter in 2018, and published my first app in 2019 Worked on AI/ML/DL in 2021, wrote a research paper, and worked on a data science company as a Full-Stack dev but hated web dev Returned to mobile development and created an ASL to Text and vice versa translater including real-time video calling Currently refactoring Bundle App, downloaded by millions in Turkey, as an Android developer with cries and tears...
 
-*   🌍  I'm based in Turkey
-*   🖥️  See my portfolio at [subfly.dev](http://subfly.dev)
-*   ✉️  You can contact me at [alitaha@subfly.dev](mailto:alitaha@subfly.dev)
-*   🚀  I'm currently working on [Bundle](http://www.bundle.app)
-*   🧠  I'm learning SwiftUI and React Native
-*   🤝  I'm open to collaborating on Any app idea that does not starts with "Hey! Dude I know the next big thing"
-*   ⚡  I hate the taste of olive but I love the taste of olive oil...<a href="https://www.twitter.com/AliTahaSubfly" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/AliTahaSubfly?logo=twitter&style=for-the-badge&color=a855f7&labelColor=171717"
-                /></a><a href="https://www.github.com/Subfly" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Subfly?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>### Skills 
+* 🌍  I'm based in Turkey
+* 🖥️  See my portfolio at [subfly.dev](http://subfly.dev)
+* ✉️  You can contact me at [alitaha@subfly.dev](mailto:alitaha@subfly.dev)
+* 🚀  I'm currently working on [Bundle](http://www.bundle.app)
+* 🧠  I'm learning SwiftUI and React Native
+* 🤝  I'm open to collaborating on Any app idea that does not starts with "Hey! Dude I know the next big thing"
+* ⚡  I hate the taste of olive but I love the taste of olive oil...
+
+<a href="https://www.twitter.com/AliTahaSubfly" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/AliTahaSubfly?logo=twitter&style=for-the-badge&color=a855f7&labelColor=171717"
+/></a><a href="https://www.github.com/Subfly" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Subfly?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -41,21 +45,14 @@ Started university in 2017, Flutter in 2018, and published my first app in 2019 
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/Subfly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://subfly.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/ali-taha-dincer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@alitahasubfly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/10840292/subfly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/AliTahaSubfly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Subfly"><img src="https://github-readme-stats.vercel.app/api?username=Subfly&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="Subfly's GitHub stats" /></a><a href="https://github.com/Subfly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subfly&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Subfly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://subfly.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ali-taha-dincer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@alitahasubfly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10840292/subfly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AliTahaSubfly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Subfly"><img src="https://github-readme-stats.vercel.app/api?username=Subfly&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="Subfly's GitHub stats" /></a>
+
+<a href="https://github.com/Subfly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subfly&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
