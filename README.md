@@ -9,9 +9,9 @@ Started university in 2017, Flutter in 2018, and published my first app in 2019 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [subfly.dev](http://subfly.dev)
 * ✉️  You can contact me at [alitaha@subfly.dev](mailto:alitaha@subfly.dev)
-* 🚀  I'm currently working on [Bundle](http://www.bundle.app)
-* 🧠  I'm learning SwiftUI and React Native
-* 🤝  I'm open to collaborating on Any app idea that does not starts with "Hey! Dude I know the next big thing"
+* 🚀  I'm currently working at [Commencis](https://www.commencis.com/)
+* 🧠  I'm learning Kotlin Multiplatform
+* 🤝  I'm open to collaborating on talks and teaching
 * ⚡  I hate the taste of olive but I love the taste of olive oil...
 
 <a href="https://www.twitter.com/AliTahaSubfly" target="_blank" rel="noreferrer"><img
