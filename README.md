@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 and I am a Mobile Application Developer
 ---------------------------------------
 
-Started university in 2017, Flutter in 2018, and published my first app in 2019 Worked on AI/ML/DL in 2021, wrote a research paper, and worked on a data science company as a Full-Stack dev but hated web dev Returned to mobile development and created an ASL to Text and vice versa translater including real-time video calling Currently refactoring Bundle App, downloaded by millions in Turkey, as an Android developer with cries and tears...
+Started university in 2017, Flutter in 2018, and published my first app in 2019 Worked on AI/ML/DL in 2021, wrote a research paper, and worked on a data science company as a Full-Stack dev but hated web dev. Returned to mobile development and created an ASL to Text and vice versa translater including real-time video calling. Refactored the whole Bundle App to Jetpack Compose, downloaded by millions in Turkey, as an Android developer with cries and tears. Currently creating world class applications in Commencis.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [subfly.dev](http://subfly.dev)
