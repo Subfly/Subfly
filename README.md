@@ -8,7 +8,7 @@ Started university in 2017, Flutter in 2018, and published my first app in 2019 
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [subfly.dev](http://subfly.dev)
-* ✉️  You can contact me at [alitaha@subfly.dev](mailto:alitaha@subfly.dev)
+* ✉️  You can contact me at [alitahasubfly@gmail.com](mailto:alitahasubfly@gmail.com)
 * 🚀  I'm currently working at [Check24](https://www.check24.de/)
 * 🤝  I'm open to collaborating on talks and teaching
 * ⚡  I hate the taste of olive but I love the taste of olive oil...
